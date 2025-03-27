@@ -38,8 +38,8 @@ A Node.js API for managing school information and retrieving schools sorted by g
 ### API Documentation
 
 1. Add School
-   # Endpoint
-   # POST /api/addSchool
+   #### Endpoint
+   #### POST /api/addSchool
 
 Request Body:
 
@@ -63,9 +63,9 @@ Success Response:
 
 2. List Schools by Proximity
 
-# Endpoint
+#### Endpoint
 
-# GET /api/listSchools?latitude=40.7128&longitude=-74.0060
+#### GET /api/listSchools?latitude=40.7128&longitude=-74.0060
 
 Success Response:
 
