@@ -23,8 +23,8 @@ A Node.js API for managing school information and retrieving schools sorted by g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/school-management-api.git
-   cd school-management-api
+   https://github.com/Grahanam/SchoolManagement.git
+   cd SchoolManagement
    ```
 2. Install dependencies:
    ```bash
